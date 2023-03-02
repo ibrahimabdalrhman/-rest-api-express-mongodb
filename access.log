@@ -1,0 +1,6 @@
+::1 - - [02/Mar/2023:00:06:20 +0000] "GET /api/events HTTP/1.1" 200 - "-" "PostmanRuntime/7.31.1"
+::1 - - [02/Mar/2023:00:06:35 +0000] "GET /api/events HTTP/1.1" 200 - "-" "PostmanRuntime/7.31.1"
+::1 - - [02/Mar/2023:00:06:36 +0000] "GET /api/events HTTP/1.1" 200 - "-" "PostmanRuntime/7.31.1"
+::1 - - [02/Mar/2023:00:06:38 +0000] "GET /api/events/63fe6ad02dea53ee781083a2 HTTP/1.1" 200 223 "-" "PostmanRuntime/7.31.1"
+::1 - - [02/Mar/2023:00:57:02 +0000] "GET /api?timeout=32s HTTP/1.1" 404 142 "-" "kubectl/v1.25.2 (windows/amd64) kubernetes/5835544"
+::1 - - [02/Mar/2023:00:57:02 +0000] "GET /apis?timeout=32s HTTP/1.1" 404 143 "-" "kubectl/v1.25.2 (windows/amd64) kubernetes/5835544"
